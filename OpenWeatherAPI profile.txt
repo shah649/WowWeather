@@ -1,0 +1,4 @@
+OpenWeatherAPI profile:
+
+username:	aspm-team-2
+password:   aspmteam2fall2016
